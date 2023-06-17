@@ -1,0 +1,20 @@
+{
+  "name": "naufalmumtaz/belajar-mvc-zaman",
+  "description": "belajar mvc di programmer zaman now",
+  "type": "project",
+  "authors": [
+    {
+      "name": "MumtazTech",
+      "email": "naufalmumtazbusiness25@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7",
+    "vlucas/phpdotenv": "^5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "NaufalMumtaz\\Belajar\\PHPMVC\\": "app"
+    }
+  }
+}
